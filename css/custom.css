@@ -1,10 +1,14 @@
 .navimg {
     /* display: none; */
-    height: 35%;
-    width: 35%;
+    height: 5%;
+    width: 15%;
 }
 
 .arrival-img {
     border-radius: 20px;
     margin-bottom: 6px;
+}
+
+nav {
+    /* display: none; */
 }
